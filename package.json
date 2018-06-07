@@ -1,7 +1,7 @@
 {
   "name": "youtube-api-avoid-conflicts",
   "version": "1.0.0",
-  "description": "A WordPress plugin to avoid conflits with the YouTube API onYouTubePlayerAPIReady() function",
+  "description": "A WordPress plugin to avoid conflicts with the YouTube API onYouTubePlayerAPIReady() function",
   "main": "youtube-api-avoid-conflicts.php",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
