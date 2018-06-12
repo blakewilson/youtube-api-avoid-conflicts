@@ -1,0 +1,11 @@
+{
+  "[php]": {
+    "editor.formatOnSave": true
+  },
+  "[javascript]": {
+      "editor.formatOnSave": true
+  },
+  "phpcs.enable": true,
+  "phpcs.standard": "WordPress",
+  "phpcbf.standard": "WordPress",
+}

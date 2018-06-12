@@ -1,5 +1,5 @@
 /**
- * YouTube API Avoid Conflicts WordPress Plugin
+ * YT API Avoid Conflicts WordPress Plugin
  * @author Push Labs
  * @link https://pushlabs.co
  * @link http://www.gambit.ph/how-to-use-the-javascript-youtube-api-across-multiple-plugins/
