@@ -3,3 +3,4 @@ package-lock.json export-ignore
 package.json export-ignore
 .* export-ignore
 src export-ignore
+readme.md export-ignore
